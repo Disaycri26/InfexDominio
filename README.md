@@ -1,0 +1,2 @@
+# InfexDominio
+Scrip termux3
